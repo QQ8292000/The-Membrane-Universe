@@ -11,6 +11,22 @@
 
 ---
 
+# The-Membrane-Universe / 界膜宇宙
+
+> **我们并非宇宙的居民，我们是它的防线。**
+> **存在，并非一份馈赠。存在，是一场抵抗。**
+
+[![World Building](https://img.shields.io/badge/Phase-World%20Building-orange)](#)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+欢迎来到《界膜宇宙》—— 一个基于哲学思辨与科学猜想构建的**开源、共创宇宙世界观项目**。
+
+*(此处可以插入一张核心概念图)*
+
+**[➡️ 点击此处快速探索世界观核心](#-世界观核心创世七问)**
+
+
+
 ## 🌌 世界观核心：创世七问
 
 本宇宙观通过七个核心问题的逻辑推演，构建出一个坚实而充满张力的叙事框架。
