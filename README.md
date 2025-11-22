@@ -6,11 +6,12 @@
 > **我们并非宇宙的居民，我们是它的防线。**
 > **存在，并非一份馈赠。存在，是一场抵抗。**
 
+
 [![World Building](https://img.shields.io/badge/Phase-World%20Building-orange)](#)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 欢迎来到《界膜宇宙》—— 一个基于哲学思辨与科学猜想构建的**开源、共创宇宙世界观项目**。
-
+在这里，我们重新定义宇宙的真相：我们所熟知的三维宇宙，仅仅是一个更为宏大结构的投影。这个结构，就是界膜——一切存在的最终边界，也是抵抗绝对虚无的最后防线。
 
 
 **[➡️ 点击此处快速探索世界观核心](#-世界观核心创世七问)**
